@@ -19,3 +19,26 @@ Upgrade que planejamos fazer:
 
 
 Obrigado, time!
+
+________________________________________________________________________________
+
+ O EDR, que significa Endpoint Detection and Response (Detecção e Resposta em Pontos de Extremidade, em tradução livre), é uma categoria de software de segurança cibernética projetada para proteger os dispositivos de uma organização, como computadores, servidores e dispositivos móveis, contra ameaças cibernéticas avançadas. Aqui estão os principais aspectos do EDR:
+
+   - Detecção Avançada
+   - Coleta de Dados
+   - Análise de Comportamento
+   - Resposta a Incidentes
+   - Investigação Forense
+
+
+Ransomware:
+
+ O ransomware é um tipo de malware (software malicioso) que criptografa os arquivos ou bloqueia o acesso a um sistema de computador ou dispositivo móvel. Os cibercriminosos por trás do ransomware então exigem um resgate (geralmente em criptomoedas) em troca da chave de descriptografia ou do restabelecimento do acesso ao sistema. Aqui estão os principais pontos relacionados ao ransomware:
+
+   - Criptografia Maliciosa
+   - Resgate Exigido
+   - Propagação
+   - Impacto Severo
+   - Medidas de Prevenção
+
+________________________________________________________________________________
