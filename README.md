@@ -15,7 +15,7 @@ O que nosso EDR apresenta?
 Upgrade que planejamos fazer:
   - Area isolada (quarentena para testes)
   - Analise baixa de malwares
-  - Maior fortificação estrutural do código (possivel mudanças no código fonte do programa)
+  - Maior fortificação estrutural do código (possivel mudanças no código fonte do programa), mas lembrando, isso são planos futuros.
 
 
 Obrigado, time!
