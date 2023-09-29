@@ -19,7 +19,11 @@ Upgrade que planejamos fazer:
 
 
 Obrigado, time!
+________________________________________________________________________________
+Ai meu Deus, como eu instalo o Catcher?
 
+Keep calm and watching: https://www.youtube.com/watch?v=LNjfQDNai3g
+![cold, smooth   tasty](https://github.com/Ralph20s/Catcher/assets/129310835/97900456-cf48-45e3-885a-60b7b08b15f8)
 ________________________________________________________________________________
 
  O EDR, que significa Endpoint Detection and Response (Detecção e Resposta em Pontos de Extremidade, em tradução livre), é uma categoria de software de segurança cibernética projetada para proteger os dispositivos de uma organização, como computadores, servidores e dispositivos móveis, contra ameaças cibernéticas avançadas. Aqui estão os principais aspectos do EDR:
