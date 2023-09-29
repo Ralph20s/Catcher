@@ -1,12 +1,4 @@
-import os
-import random
-import string
-import time
-import psutil
-import subprocess
-import arquivos as arq
-import threading
-import tkinter as tk
+import os, random, string, time, psutil, subprocess, arquivos as arq, threading, tkinter as tk
 from watchdog.observers import Observer
 from watchdog.events import FileSystemEventHandler
 
