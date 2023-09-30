@@ -41,7 +41,7 @@ class ObserverApp:
         self.root.title("Monitor de Eventos")
 
         # Load and resize the image
-        image = Image.open("Z:\Challenge\Catcher\Images\catcher.jpg")
+        image = Image.open("C:\Challenge\Catcher\Images\catcher.jpg")
         image = image.resize((100, 100), Image.BICUBIC)  # Resize to 100x100
         self.photo = ImageTk.PhotoImage(image)
 
@@ -106,7 +106,7 @@ class ObserverApp:
         elif file_type == 'image':
             filename = 'honeypot_' + filename + '.jpg'  # Add 'honeypot_'   prefix
             filepath = os.path.join(directory, filename)
-            shutil.copy("Z:\Challenge\Catcher\Images\catcher.jpg", filepath)
+            shutil.copy("C:\Challenge\Catcher\Images\catcher.jpg", filepath)
 
     def create_honeypots(self):
         num_honeypots = 5  # Quantidade de honeypots a serem criados
