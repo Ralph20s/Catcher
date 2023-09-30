@@ -1,5 +1,5 @@
 # Catcher
-![catcher](https://github.com/Ralph20s/Catcher/assets/129310835/5606cbdc-34c8-4158-8711-28b161c1bd2c)
+![Catcher](https://github.com/Ralph20s/Catcher/assets/129310835/a2f89fda-b77d-4957-995f-5f77e7823417)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ralph-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
