@@ -9,11 +9,11 @@
 
 ##
 
-Bem vindos ao Catcher, pode acreditar, essa é sua zona de segurança favorita!
+Bem vindos ao <strong>Catcher</strong>, pode acreditar, essa é sua zona de segurança favorita!
 Ao longo desse ano o time da HunterSec desenvolveu um EDR codado em python, favoritado ao usuário, de forma que ficou fácil para o uso do mesmo.
 
 <h3>
-O que nosso EDR apresenta?
+<strong>O que nosso EDR apresenta?</strong>
   </h3>
   
   - Kill Ransonwares
@@ -22,7 +22,7 @@ O que nosso EDR apresenta?
   - Application of honeypots
 
 <h3> 
-Upgrade que planejamos fazer:
+<strong>Upgrade que planejamos fazer:</strong>
   </h3>
   
   - Area isolada (quarentena para testes)
