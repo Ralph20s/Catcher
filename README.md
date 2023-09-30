@@ -4,6 +4,13 @@
 Nosso site oficial/Our Oficial Site: https://huntersec.my.canva.site/
 
 Como instalar o Catcher/How Install Catcher: https://www.youtube.com/watch?v=LNjfQDNai3g
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Ralph-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Ralph-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Ralph-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+</div>
+
 ##
 
 Bem vindos ao Catcher, pode acreditar, essa é sua zona de segurança favorita!
